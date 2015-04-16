@@ -1,0 +1,4 @@
+C:\Users\AFA_Kents\Documents\My VS Projects\StandardFormatLib\bin\x86\Release\StandardFormatLib.dll
+C:\Users\AFA_Kents\Documents\My VS Projects\StandardFormatLib\bin\x86\Release\GenLib.dll
+C:\Users\AFA_Kents\Documents\My VS Projects\StandardFormatLib\obj\x86\Release\StandardFormatLib.dll
+C:\Users\AFA_Kents\Documents\My VS Projects\StandardFormatLib\obj\x86\Release\StandardFormatLib.csprojResolveAssemblyReference.cache

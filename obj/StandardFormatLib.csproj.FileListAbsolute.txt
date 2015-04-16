@@ -1,0 +1,10 @@
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\StandardFormatLib\bin\Debug\StandardFormatLib.dll
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\StandardFormatLib\bin\Debug\StandardFormatLib.pdb
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\StandardFormatLib\bin\Debug\GenLib.dll
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\StandardFormatLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\StandardFormatLib\obj\Debug\StandardFormatLib.dll
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\StandardFormatLib\obj\Debug\StandardFormatLib.pdb
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\StandardFormatLib\bin\Release\StandardFormatLib.dll
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\StandardFormatLib\bin\Release\GenLib.dll
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\StandardFormatLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\AFA_KentS\My Documents\My VS Projects\StandardFormatLib\obj\Release\StandardFormatLib.dll

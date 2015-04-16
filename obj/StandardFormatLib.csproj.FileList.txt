@@ -1,0 +1,10 @@
+bin\Debug\StandardFormatLib.dll
+bin\Debug\StandardFormatLib.pdb
+bin\Debug\GenLib.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\StandardFormatLib.dll
+obj\Debug\StandardFormatLib.pdb
+bin\Release\StandardFormatLib.dll
+bin\Release\GenLib.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\StandardFormatLib.dll
